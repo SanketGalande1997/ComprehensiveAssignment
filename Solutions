@@ -1,7 +1,6 @@
 Problem No1 
 Solution is given Below:
 
-
 public class Account {
     protected double balance;
     protected double interestRate;
